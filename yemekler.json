@@ -1,0 +1,32 @@
+{"yemekler":[
+     {
+        "yemek_id":1,
+        "yemek_adi":"Mantarlı Tavuk Çorbası",
+        "yemek_aciklama":"Mantarlı Tavuk Çorba Tarifi",
+        "yemek_tur":"Çorba",
+        "yemek_pisirme_suresi":"2 saat",
+        "yemek_kisi_sayısı":"4 kişilik",
+        "yemek_resim":"",
+        "yemek_malzemeler":"Mantar, tavuk,.."
+     },
+     {
+        "yemek_id":2,
+        "yemek_adi":"Fırında Mantarlı Tavuk ",
+        "yemek_aciklama":"Mantarlı Tavuk Tarifi",
+        "yemek_tur":"Anayemek",
+        "yemek_pisirme_suresi":"2 saat",
+        "yemek_kisi_sayısı":"4 kişilik",
+        "yemek_resim":"",
+        "yemek_malzemeler":"Mantar, tavuk,.."
+     },
+    {
+        "yemek_id":3,
+        "yemek_adi":"Tavuk Göğsü",
+        "yemek_aciklama":"Tavuk Göğsü Tarifi",
+        "yemek_tur":"Tatlı",
+        "yemek_pisirme_suresi":"2 saat",
+        "yemek_kisi_sayısı":"4 kişilik",
+        "yemek_resim":"",
+        "yemek_malzemeler":""
+     }
+]}
